@@ -32,8 +32,7 @@ A web-based User Management System built with **React**, **TypeScript**, and **R
 - **Redux Toolkit**
 - **Redux Persist**
 - **Axios**
-- **Vite / Webpack** (based on your config)
-- **Ant Design** or any UI library (if used)
+- **Ant Design** or any UI library
 - **Reqres.in** API
 
 ---
