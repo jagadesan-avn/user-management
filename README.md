@@ -43,9 +43,11 @@ A web-based User Management System built with **React**, **TypeScript**, and **R
    ```bash
    git clone https://github.com/jagadesan-avn/user-management-app.git
    cd user-management-app
-2. **Install all dependencies:""
+2. **Install all dependencies:**
     ```bash
    npm install --legacy-peer-deps
-3. **Run the application:""
+3. **Run the application:**
     ```bash
    npm run dev (or) npm start
+
+---
