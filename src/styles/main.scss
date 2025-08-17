@@ -1,0 +1,32 @@
+@import '../../node_modules/@flaticon/flaticon-uicons/css/all/all.css';
+@import './inputs.scss';
+@import './login.scss';
+@import './users.scss';
+
+header {
+    background: #001628;
+    color: #fff;
+    height: auto;
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 15px;
+
+    .logout-btn {
+        display: flex;
+        padding: 10px;
+        rotate: 180deg;
+        background: #ff4d4f;
+        color: #fff;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
